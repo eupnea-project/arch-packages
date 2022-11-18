@@ -1,4 +1,4 @@
-name: Updating functions.py
+name: Create packages
 on:
   schedule:
     - cron: "0 0 * * *" # run at the start of every day
