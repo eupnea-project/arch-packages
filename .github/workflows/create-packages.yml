@@ -27,4 +27,4 @@ jobs:
           body: |
             These are repacked ubuntu deb packages to be used in arch. [Explanation](https://github.com/eupnea-linux/arch-packages#explanation)
           files: |
-            /tmp/pop-os/popos-rootfs.tar.xz
+            ./vboot-cgpt-utils.pkg.tar.zst
