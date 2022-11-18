@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Repacking ubuntu packages
-        run: sudo ./create-packages.sh
+        run: sudo bash ./create-packages.sh
 
       - name: Generating release tag
         id: tag
