@@ -1,8 +1,9 @@
 # Maintainer: The Eupnea Project
+# WARNING: This PKGBUILD will only work on systems with apt-get installed.
 pkgname=vboot-cgpt-utils
 pkgver=1.0
 pkgrel=1
-pkgdesc="vboot utils and cgpt repackaged from Ubuntu debs. Will only build on Ubuntu systems"
+pkgdesc="vboot utils and cgpt repackaged from Ubuntu debs. Will only build on systems with apt-get installed."
 url="https://chromium.googlesource.com/chromiumos/platform/vboot_reference"
 arch="x86_64"
 license=('GPLv3')
