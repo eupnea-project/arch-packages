@@ -99,4 +99,4 @@ jobs:
           body: |
             These are repacked ubuntu deb packages to be used in arch. [Explanation](https://github.com/eupnea-linux/cgpt-vboot-utils-arch#explanation)
           files: |
-            ./cgpt-vboot-utils.pkg.tar.zst
+            ./vboot-cgpt-utils.pkg.tar.zst
