@@ -1,3 +1,5 @@
+# REPO MERGED INTO [ARCH-REPO](https://github.com/eupnea-linux/arch-repo)
+
 # arch-packages
 
 Pre-packaged cgpt + vboot packages for arch linux
